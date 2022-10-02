@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'cars.apps.CarsConfig',
     'pages.apps.PagesConfig',
+    'accounts.apps.AccountsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -41,7 +42,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'ckeditor',
     'django.contrib.humanize',
-
 ]
 
 MIDDLEWARE = [
@@ -139,3 +139,6 @@ MEDIA_URL='/media/'
 
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
+MEDIA_ROOT = '/var/www/media/'
+MEDIA_URL = os.path.join(BASE_DIR,'/media/')
