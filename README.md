@@ -35,11 +35,8 @@ I am building a real Django project called "Car Crease- A Used Car Selling Busin
 
 <img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
 
-<br/>
-<br/>
 ----
 
-<br/>
 
 ## Technologies used 🛠️
 
