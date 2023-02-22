@@ -50,6 +50,7 @@ I am building a real Django project called "Car Crease- A Used Car Selling Busin
 - **PostgreSQL** 🚀
 - **Git** 🚀
 - **Other Plugins and Packages** 🚀
+
 ---
 
 <br>
